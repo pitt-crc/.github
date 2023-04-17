@@ -1,7 +1,8 @@
 # Welcome to the CRC GitHub
 
-The Center for Research Computing (CRC) is a high performance computing center designed to support scientific research, education, and outreach at the University if Pittsburgh.
+The Center for Research Computing (CRC) is a high performance computing center working to support scientific research, education, and outreach at the University of Pittsburgh.
 As part of this mission, we recognize the value of open-source software and encourage code sharing and collaboration across the research community.
+This GitHub organization provides access to all open-source software developed by the CRC for both internal and public use.
 
 ## How to contribute
 
